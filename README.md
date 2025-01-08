@@ -1,6 +1,10 @@
 **Circular Progress Bar with Slider in Jetpack Compose**
 
 
+Go To Master Branch Code in Master Branch
+Pull Request : https://github.com/Vishalkumar800/Circular-Bar-Modern-.git
+
+
 This project demonstrates a circular progress bar with a slider using Jetpack Compose in Android. The circular progress bar updates dynamically based on the slider's value, offering an interactive and visually appealing UI element.
 
 Features
